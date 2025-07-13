@@ -663,3 +663,4 @@
 2025-11-09 19:49:29 add integration tests
 2025-02-24 14:09:56 fix config bug
 2025-10-10 05:07:46 remove unused import
+2025-07-13 10:15:45 better error handling
